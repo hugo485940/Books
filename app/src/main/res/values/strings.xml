@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Books - Hugo Rossi</string>
+
+    <string name="cancel">Cancel</string>
+    <string name="retry">Retry</string>
+    <string name="oopss">Oopss</string>
+
+    <string name="network_error_message">You are currently offline. Check your internet connection and try again.</string>
+    <string name="generic_error_message">Something went wrong. Try again or contact us through the support.</string>
+</resources>
